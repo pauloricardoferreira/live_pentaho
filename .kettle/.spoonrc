@@ -1,5 +1,5 @@
 #Kettle Properties file
-#Wed Nov 15 11:02:15 BRT 2023
+#Wed Nov 15 11:13:23 BRT 2023
 AskAboutReplacingDatabases=N
 AutoCollapseCoreObjectsTree=Y
 AutoSave=N
@@ -657,7 +657,7 @@ tabdir1=/AIRFLOW
 tabdir2=/AIRFLOW
 tabfile1=TRANSFORM_DAGS_LISTA
 tabfile2=TRANSFORM_DAGS_LISTA
-tabfiles=1
+tabfiles=0
 tabopened1=Y
 tabopened2=Y
 tabopentypes1=1

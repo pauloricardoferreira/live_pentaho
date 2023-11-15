@@ -4,7 +4,6 @@
     <name>live_pentaho</name>
     <description>File repository</description>
     <is_default>false</is_default>
-    <! Utilize o padrão do Linux para o caminho, começando com /, desta forma não terá problemas entre Windows e Linux -->
     <base_directory>/opt/projetos/live_pentaho</base_directory>
     <read_only>N</read_only>
     <hides_hidden_files>N</hides_hidden_files>
